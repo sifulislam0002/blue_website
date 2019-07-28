@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #121B2A
+}
+.wrapper{
+	width: 80%;
+	border: 1px solid white;
+	margin: 0 auto;
+}
+.logo{
+	width: 20%;
+	border: 1px solid white;
+}
+.logo a img{
+	width: 100%;
+}
+.menu{
+	width: 60%;
+	border: 1px solid white;
+}
+.menu ul{
+
+}
+.menu ul li{
+
+}
+.menu ul li a{
+
+}
